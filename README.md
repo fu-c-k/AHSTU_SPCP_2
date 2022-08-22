@@ -1,4 +1,4 @@
-# <center>安徽科技学院自动疫情填报 V2.4 Beta(完全自动)</center>
+# <center>安徽科技学院自动疫情填报 V2.4 Beta(完全自)</center>
 # 简介
 
 
